@@ -76,7 +76,7 @@ RailsStripeMembershipSaas::Application.configure do
     authentication: "plain",
     enable_starttls_auto: true,
     user_name: ENV["pavitir121"],
-    password: ENV["Zoneta7a"]
+    password: ENV["#######"]
   }
 
 
